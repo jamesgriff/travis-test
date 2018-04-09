@@ -2,3 +2,4 @@ install:
   - gem install jekyll
 script:
   - git clone https://github.com/jamesgriff/netlify-cms-test.git otherrepo
+  - ls -al
