@@ -1,2 +1,4 @@
-before_install:
+install:
   - gem install jekyll
+script:
+  - ./clone-another-repo.sh
